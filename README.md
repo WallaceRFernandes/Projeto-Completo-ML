@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Loyalty Predict
 
 Construindo uma solução de Data Science junto com a comunidade! Confira todo nosso material em [cursos.teomewhy.org](cursos.teomewhy.org).
@@ -86,3 +87,7 @@ Confira as ferramentas necessárias para estar confortável em acompanhar o proj
 
 > [!NOTE]
 > As lives serão de segunda a sexta. Havendo necessidade de avançar por mais de uma semana, seguiremos realizando transmissões.
+=======
+# Projeto-Completo-ML
+Projeto ML completo ministrado por "Teodoro Calvo"(teomewhy). Todo o caminho do SQL ao Deploy.
+>>>>>>> 5672534c2ed7c068f0d1efb288a71c8968953a16
